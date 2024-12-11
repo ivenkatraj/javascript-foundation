@@ -10,3 +10,7 @@ if(isHappy)
 else{
     console.log("Venkat is sad");
 }
+
+let age = 20;
+
+console.log(age > 18);
