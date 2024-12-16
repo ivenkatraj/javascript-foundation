@@ -9,4 +9,4 @@ let object ={
 console.log(typeof object.nickname);
 
 let array = [1,2,true];
-console.log(typeof array[0]);
+console.log(typeof array);
