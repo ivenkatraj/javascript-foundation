@@ -15,13 +15,17 @@ console.log("a greater than or equal to b", a >= b);
 console.log("a less than or equal to b", a <= b);
 
 //Is equal
+//Doesn't compare DATA TYPES
 console.log("a is equal to b", a == b);
 
 //Not equal
+//Doesn't compare DATA TYPES
 console.log("a not equal b", a != b);
 
 //Strict equality
+//Compares both VALUE and DATA TYPES
 console.log("Strict equality: a===b", a === b);
 
 //Strict Inequality
+//Compares both VALUE and DATA TYPES
 console.log(a !== b);
