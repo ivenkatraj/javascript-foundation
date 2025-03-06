@@ -1,4 +1,4 @@
-var variableName = 'Welcome to variables';
+var variableName = 'Welcome to comments';
 
 //Single line comment
 
