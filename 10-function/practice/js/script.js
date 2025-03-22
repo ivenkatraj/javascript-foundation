@@ -18,5 +18,5 @@ const name = (params) => {
 }
 
 
-//Arrow function most modern way to create js.
+//Arrow function most modern way to create js. It doesn't have "this" keyword.
 //Function declaration has one advantage that is "this" keyword can be accessed.
